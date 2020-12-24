@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Murat Umutlu (it's me!) is a Full-Stack developer with 8 years of experience in health, finance and telecommunication industries. An outgoing, team-oriented, and organized professional with a unique international background an natural interest in augmented reality, machine learning, and game development.
+Murat Umutlu (it's me!) is a Full-Stack developer with 9 years of experience in health, finance and telecommunication industries. An outgoing, team-oriented, and organized professional with a unique international background an natural interest in augmented reality, machine learning, and game development.
 
 I specialize in the following areas:
 
