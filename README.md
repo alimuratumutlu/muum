@@ -13,8 +13,8 @@ Nextjs (server side rendering package) and Gatsby (static site generator) are im
 - ⚡ Location based technologies (ArcGIS, Google Maps, Here Maps)
 During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS was the hardest one of them. Its react library is not developed as the others. That makes you to create your own solutions for the problems. Here you can visit the ArcGIS project that I built for Turkcell: Pharmacies on Duty (do not forget to give location access)
 
-- Mobile App and Game Development with React Native
-- API Development with Nodejs, Express, and Python
-- Full Stack Development with Reactjs, GraphQL and AWS Amplify
+- ⚡ Mobile App and Game Development with React Native
+- ⚡ API Development with Nodejs, Express, and Python
+- ⚡ Full Stack Development with Reactjs, GraphQL and AWS Amplify
 
 💬 I'm open to professional relationships and you can reach me via e-mail at murat@muum.dev
