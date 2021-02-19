@@ -29,5 +29,6 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 ![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muum&show_icons=true&theme=tokyonight)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muum&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />	
 
 💬 I'm open to professional relationships and you can reach me via e-mail at murat@muum.dev
