@@ -102,11 +102,10 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=muumdev&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%2Fmuumdev)
 ![Medium Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=medium&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fmedium.medium.com)
 ![Stackoverflow Badge](https://img.shields.io/twitter/url?color=orange&label=muumdev&logo=stackoverflow&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com/users/3732114)
-[![Gmail Badge](https://img.shields.io/twitter/?color=red&label=muumdev&logo=gmail&logoColor=red&style=for-the-badge&url=mailto%3Amurat@muum.dev)](mailto:murat@muum.dev)
-[![Gmail Badge](https://img.shields.io/badge/muumdev-white?logo=gmail&style=for-the-badge&red=gray)](https://www.facebook.com/muumdev/)
 
-[![Facebook Badge](https://img.shields.io/twitter/url?color=blue&label=muumdev&logo=facebook&logoColor=blue&style=for-the-badge&url=https%3A%2F%facebook.com/muumdev)](mailto:murat@muum.dev)
-[![Facebook Badge](https://img.shields.io/badge/muumdev-gray?logo=facebook&style=for-the-badge&color=white&url=https%3A%2F%facebook.com/muumdev)](https://www.facebook.com/muumdev/)
+[![Gmail Badge](https://img.shields.io/badge/muumdev-white?logo=gmail&style=for-the-badge&red=gray)](mailto:murat@muum.dev)
+
+[![Facebook Badge](https://img.shields.io/badge/muumdev-gray?logo=facebook&style=for-the-badge&color=white)](https://www.facebook.com/muumdev/)
 
 
 <br />
