@@ -35,8 +35,7 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 <hr />
 
-
-## Languages I have used 💻
+💻 Languages I have used 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -44,6 +43,8 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+
+<hr />
 
 ## 🗜 Some of the technologies I have worked with
 
@@ -72,7 +73,9 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-## ⏳ I’m currently working on ...
+<hr />
+
+⏳ I’m currently working on ...
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
@@ -81,10 +84,13 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ![Microservices](http://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
+<hr />
 
 ![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muum&show_icons=true&theme=tokyonight)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muum&layout=compact&theme=onedark&hide=html,jupyter+notebook,java,objective-c" />	
+
+<hr />
 
 ### How to reach me !
 
