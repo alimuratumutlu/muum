@@ -99,12 +99,10 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ### How to reach me !
 
 ![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=muratumutlu&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuratumutlu)
-[![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=muumdev&logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/in/muumdev/)
-[![Gmail Badge](https://img.shields.io/twitter/url?color=red&label=muumdev&logo=gmail&logoColor=white&style=for-the-badge)][gmail]
+[![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=muumdev&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%2Fmuumdev)](https://www.twitter.com/in/muumdev/)
+[![Medium Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=medium&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmedium.medium.com)](https://muumdev.medium.com)
 
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
+
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat&logo=dev-dot-to" />][Dev]
 [<img height="30" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
