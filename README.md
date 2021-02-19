@@ -99,8 +99,8 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ### How to reach me !
 
 ![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=muratumutlu&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuratumutlu)
-![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=muumdev&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%2Fmuumdev)
-![Medium Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=medium&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmedium.medium.com)
+![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=muumdev&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%2Fmuumdev)
+![Medium Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=medium&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fmedium.medium.com)
 ![Stackoverflow Badge](https://img.shields.io/twitter/url?color=orange&label=muumdev&logo=stackoverflow&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com/users/3732114)
 
 
