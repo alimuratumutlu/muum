@@ -68,6 +68,7 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
+![Gitlab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Trello](http://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 ![Asana](http://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
