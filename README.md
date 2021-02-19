@@ -52,18 +52,8 @@ Murat Umutlu (it's me!) is a Full-Stack developer with 9 years of experience in 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![GraphQL](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
-![Apollo](http://img.shields.io/badge/-Apollo-333333?style=flat&logo=graphql)
 ![Microservices](http://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-
-![React Native](http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![AR](http://img.shields.io/badge/-Augumented%20Reality-333333?style=flat&logo=ar)
-
-![Docker](http://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
 
 I specialize in the following areas:
