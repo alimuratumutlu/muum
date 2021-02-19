@@ -98,12 +98,13 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 ### How to reach me !
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-gray?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/muratumutlu)
-[![Twitter Badge](https://img.shields.io/badge/twitter-gray?logo=twitter&style=for-the-badge)](https://twitter.com/muumdev)
+[![Gmail Badge](https://img.shields.io/badge/gmail-gray?logo=gmail&style=for-the-badge)](mailto:murat@muum.dev)
+[![Telegram Badge](https://img.shields.io/badge/telegram-gray?logo=telegram&style=for-the-badge)](https://https://t.me/muumdev)
 [![Medium Badge](https://img.shields.io/badge/medium-gray?logo=medium&style=for-the-badge)](https://muumdev.medium.com)
 [![Stackoverflow Badge](https://img.shields.io/badge/stackoverflow-gray?logo=stackoverflow&style=for-the-badge)](https://www.stackoverflow.com/users/3732114)
-[![Gmail Badge](https://img.shields.io/badge/gmail-gray?logo=gmail&style=for-the-badge)](mailto:murat@muum.dev)
 [![Facebook Badge](https://img.shields.io/badge/facebook-gray?logo=facebook&style=for-the-badge)](https://www.facebook.com/muumdev/)
+[![Twitter Badge](https://img.shields.io/badge/twitter-gray?logo=twitter&style=for-the-badge)](https://twitter.com/muumdev)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-gray?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/muratumutlu)
 
 
 <br />
