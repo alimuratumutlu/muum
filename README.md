@@ -96,9 +96,9 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 <hr />
 
-### How to reach me !
+### 💬 How to reach me !
 
-💬 I'm open to professional relationships and you can reach me via following channels:
+I'm open to professional relationships and you can reach me via following channels:
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-gray?logo=gmail&style=for-the-badge)](mailto:murat@muum.dev)
 [![Telegram Badge](https://img.shields.io/badge/telegram-gray?logo=telegram&style=for-the-badge)](https://t.me/muumdev)
