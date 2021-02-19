@@ -98,9 +98,9 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 ### How to reach me !
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=muratumutlu&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmmertpolat)](https://www.linkedin.com/in/muratumutlu/)
-[![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=muumdev&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%muumedv)](https://www.twitter.com/in/muumdev/)
-[![Gmail Badge](https://img.shields.io/twitter/url?color=red&label=muumdev&logo=gmail&logoColor=white&style=for-the-badge&url=mailto%3Amurat%2Fin%2Fmuum.dev)](mailto:murat@muum.dev)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=muratumutlu&logo=linkedin&logoColor=lightblue&style=for-the-badge)](https://www.linkedin.com/in/muratumutlu/)
+[![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=muumdev&logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/in/muumdev/)
+[![Gmail Badge](https://img.shields.io/twitter/url?color=red&label=muumdev&logo=gmail&logoColor=white&style=for-the-badge)](mailto:murat@muum.dev)
 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
