@@ -50,9 +50,9 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 [gmail]: mailto:murat@muum.dev
 [Linkedin]: https://www.linkedin.com/in/muratumutlu
 [Medium]: https://muumdev.medium.com
+[Dev]: https://dev.to/muumdev
 [Stackoverflow]: https://stackoverflow.com/users/3732114
 [Facebook]: https://www.facebook.com/muumdev
 [Telegram]: https://t.me/muumdev
-[Dev]: https://dev.to/muumdev
 
 💬 I'm open to professional relationships and you can reach me via e-mail at murat@muum.dev
