@@ -102,11 +102,8 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=muumdev&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%2Fmuumdev)
 ![Medium Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=medium&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fmedium.medium.com)
 ![Stackoverflow Badge](https://img.shields.io/twitter/url?color=orange&label=muumdev&logo=stackoverflow&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com/users/3732114)
+![Facebook Badge](https://img.shields.io/twitter/url?color=blue&label=muumdev&logo=stackoverflow&logoColor=blue&style=for-the-badge&url=https%3A%2F%fb.com/muumdev)
 
-
-
-[<img height="30" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
 <br />
 <hr />
 
