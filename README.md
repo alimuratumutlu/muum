@@ -83,7 +83,6 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ### How to reach me !
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][Twitter]
-[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=flat&logo=Hashnode&logoColor=white" />][Hashnode]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
@@ -95,7 +94,6 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 <hr />
 
 [Twitter]: https://twitter.com/muumdev
-[Hashnode]: http://muumdev.hashnode.dev
 [gmail]: mailto:murat@muum.dev
 [Linkedin]: https://www.linkedin.com/in/muratumutlu
 [Medium]: https://muumdev.medium.com
