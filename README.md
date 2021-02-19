@@ -105,7 +105,6 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat&logo=dev-dot-to" />][Dev]
 [<img height="30" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
-[<img height="30" src = "https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">][Telegram]
 <br />
 <hr />
 
@@ -116,6 +115,5 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 [Dev]: https://dev.to/muumdev
 [Stackoverflow]: https://stackoverflow.com/users/3732114
 [Facebook]: https://www.facebook.com/muumdev
-[Telegram]: https://t.me/muumdev
 
 💬 I'm open to professional relationships and you can reach me via e-mail at murat@muum.dev
