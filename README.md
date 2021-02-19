@@ -16,7 +16,6 @@ Murat Umutlu (it's me!) is a Full-Stack developer with 9 years of experience in 
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
-<hr />
 ## 🗜 Some of the technologies I have worked with
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
@@ -44,7 +43,6 @@ Murat Umutlu (it's me!) is a Full-Stack developer with 9 years of experience in 
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-<hr />
 ## ⏳ I’m currently working on ...
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
