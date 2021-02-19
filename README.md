@@ -56,8 +56,6 @@ Murat Umutlu (it's me!) is a Full-Stack developer with 9 years of experience in 
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 
-I specialize in the following areas:
-
 ⚡ Front-End Development with Reactjs & VanillaJS
 
 I develop with React since 2017 and worked for Turkey's largest bank and GSM operator as a Front End Developer. I have used almost all of the most important state management tools (Redux, Hooks, Mobx), NPM packages and CSS Frameworks (IBM Carbon Design, Material UI, Semantic UI, TailwindCSS, Bootstrap) with React. You may visit my Medium Account to read Front-End Development articles.
