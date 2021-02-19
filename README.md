@@ -39,7 +39,7 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 <hr />
 
-💻 Languages I have used 
+### 💻 Languages I have used 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -50,7 +50,7 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 <hr />
 
-🗜 Some of the technologies I have worked with
+### 🗜 Some of the technologies I have worked with
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![Express](http://img.shields.io/badge/-Expressjs-333333?style=flat&logo=javascript)
