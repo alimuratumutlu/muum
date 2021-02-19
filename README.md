@@ -29,7 +29,11 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 ⚡ Mobile App and Game Development with React Native
 
+<hr />
+
 ⚡ API Development with Nodejs, Express, and Python
+
+<hr />
 
 ⚡ Full Stack Development with Reactjs, GraphQL and AWS Amplify
 
@@ -46,7 +50,7 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 <hr />
 
-## 🗜 Some of the technologies I have worked with
+🗜 Some of the technologies I have worked with
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![Express](http://img.shields.io/badge/-Expressjs-333333?style=flat&logo=javascript)
