@@ -79,7 +79,7 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 
 <hr />
 
-⏳ I’m currently working on ...
+### ⏳ I’m currently working on ...
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
