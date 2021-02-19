@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/muum/count.svg" />
 </p>
 
-### Hi there 👋
+## Hi 👋, I am Murat Umutlu, a MERN Stack Developer
 
 Murat Umutlu (it's me!) is a Full-Stack developer with 9 years of experience in health, finance and telecommunication industries. An outgoing, team-oriented, and organized professional with a unique international background an natural interest in augmented reality, machine learning, and game development.
 
@@ -26,5 +26,8 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ⚡ API Development with Nodejs, Express, and Python
 
 ⚡ Full Stack Development with Reactjs, GraphQL and AWS Amplify
+
+![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muum&show_icons=true&theme=tokyonight)
+
 
 💬 I'm open to professional relationships and you can reach me via e-mail at murat@muum.dev
