@@ -8,7 +8,7 @@
 Murat Umutlu (it's me!) is a Full-Stack developer with 9 years of experience in health, finance and telecommunication industries. An outgoing, team-oriented, and organized professional with a unique international background an natural interest in augmented reality, machine learning, and game development.
 
 <hr />
-## 💻 Languages I have used
+## Languages I have used 💻
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
