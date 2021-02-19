@@ -99,19 +99,18 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ### How to reach me !
 
 ![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=muratumutlu&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuratumutlu)
-[![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=muumdev&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%2Fmuumdev)](https://www.twitter.com/in/muumdev/)
-[![Medium Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=medium&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmedium.medium.com)](https://muumdev.medium.com)
+![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=muumdev&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%2Fmuumdev)]
+![Medium Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=medium&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmedium.medium.com)]
+![Dev Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=dev&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fdev.to/muumdev)]
 
 
-[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat&logo=dev-dot-to" />][Dev]
+
 [<img height="30" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
 <br />
 <hr />
 
 [gmail]: mailto:murat@muum.dev
-[Linkedin]: https://www.linkedin.com/in/muratumutlu
-[Medium]: https://muumdev.medium.com
 [Dev]: https://dev.to/muumdev
 [Stackoverflow]: https://stackoverflow.com/users/3732114
 [Facebook]: https://www.facebook.com/muumdev
