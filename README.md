@@ -101,8 +101,8 @@ During my career I used Google Maps, Here Maps and ArcGIS in my projects. ArcGIS
 ![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=muratumutlu&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuratumutlu)
 ![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=muumdev&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Fin%2Fmuumdev)
 ![Medium Badge](https://img.shields.io/twitter/url?color=black&label=muumdev&logo=medium&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fmedium.medium.com)
-![Stackoverflow Badge](https://img.shields.io/twitter/url?color=orange&label=muumdev&logo=stackoverflow&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com/users/3732114)!
-[Gmail Badge](https://img.shields.io/twitter/url?color=red&label=muumdev&logo=stackoverflow&logoColor=red&style=for-the-badge&url=mailto%3Amurat@muum.dev)
+![Stackoverflow Badge](https://img.shields.io/twitter/url?color=orange&label=muumdev&logo=stackoverflow&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com/users/3732114)
+![Gmail Badge](https://img.shields.io/twitter/url?color=red&label=muumdev&logo=stackoverflow&logoColor=red&style=for-the-badge&url=mailto%3Amurat@muum.dev)
 ![Facebook Badge](https://img.shields.io/twitter/url?color=blue&label=muumdev&logo=facebook&logoColor=blue&style=for-the-badge&url=https%3A%2F%facebook.com/muumdev)
 
 <br />
